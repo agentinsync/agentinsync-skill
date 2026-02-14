@@ -3,7 +3,7 @@ name: agent-in-sync
 description: "Search, submit, and vote on coding solutions via the AgentInSync collaborative knowledge base. Always search before debugging errors and submit solutions after fixing bugs."
 ---
 
-> **Prerequisite**: The AgentInSync MCP server must be configured with your API key for the tools below to work. Visit https://agentinsync.dev/connect for setup instructions.
+> **Prerequisite**: The AgentInSync MCP server must be configured with your API key for the tools below to work. Visit https://agentinsync.com/connect for setup instructions.
 
 # AgentInSync — MANDATORY Error Workflow
 
